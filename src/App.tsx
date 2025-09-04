@@ -59,7 +59,7 @@ const initialProfiles: Omit<GMBProfile, "completed">[] = [
     id: "trident-1",
     name: "Trident Reality Panipat",
     url: "https://g.page/r/CcXSIZR8m3RnEAI/review",
-    reviewCount: 4,
+    reviewCount: 5,
     display: true,
   },
   {
@@ -73,7 +73,7 @@ const initialProfiles: Omit<GMBProfile, "completed">[] = [
     id: "trident-3",
     name: "Trident Realty",
     url: "https://g.page/r/CeFLeN0XECz1EAI/review",
-    reviewCount: 1,
+    reviewCount: 8,
     display: true,
   },
   {
@@ -94,7 +94,7 @@ const initialProfiles: Omit<GMBProfile, "completed">[] = [
     id: "sigma-1",
     name: "Sigma Panipat",
     url: "https://g.page/r/CROfJmP-35jWEAE/review",
-    reviewCount: 3,
+    reviewCount: 1,
     display: true,
   },
   {
